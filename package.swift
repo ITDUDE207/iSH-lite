@@ -12,9 +12,9 @@ let package = Package(
     dependencies: [],
     targets: [
         .target(
-            name: "iSHLite",
+            name: "iSHlite",
             dependencies: [],
-            path: "Sources/iSHLite"
+            path: "Sources/iSHlite"
         )
     ]
 )
